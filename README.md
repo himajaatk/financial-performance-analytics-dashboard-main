@@ -140,7 +140,7 @@ Balanced discount strategies help maintain profitability while supporting revenu
 
 ## 📷 Dashboard Preview — Discount Analysis
 
-![Discount Analysis Dashboard](Discount_Analysis.png)
+![Discount Analysis Dashboard](financial-performance-analytics-dashboard-main/Discount_Analysis.png)
 
 ---
 
@@ -233,19 +233,13 @@ This project demonstrates the following technical and analytical skills:
 
 # 👨‍💻 Author
 
-**Ajay Kumar**  
+**Bheemireddy Himaja**  
 Data Analyst | Power BI | SQL | Excel  
 
 📧 Email:  
-ajthakur7273@gmail.com  
+bheemireddy.himaja05@gmail.com  
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/ajay6469  
 
-🔗 GitHub:  
-https://github.com/ajay-data-analyst  
-
----
 
 # ⭐ Project Summary
 
