@@ -80,7 +80,7 @@ Higher discount levels show reduced profit margins, highlighting the need for op
 
 ## 📷 Dashboard Preview — Financial Overview
 
-![Financial Overview Dashboard](Overview.png)
+![Financial Overview Dashboard](financial-performance-analytics-dashboard-main/Overview.png)
 
 ---
 
