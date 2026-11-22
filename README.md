@@ -110,7 +110,7 @@ Lower-margin products require pricing optimization to improve profitability.
 
 ## 📷 Dashboard Preview — Product Performance
 
-![Product Performance Dashboard](Product_Performance.png)
+![Product Performance Dashboard](financial-performance-analytics-dashboard-main/Product_Performance.png)
 
 ---
 
